@@ -11,3 +11,5 @@
 [abc222 - A. Four Digits](https://atcoder.jp/contests/abc222/tasks/abc222_a)
 
 [abc125 - A. Biscuit Generator](https://atcoder.jp/contests/abc125/tasks/abc125_a)
+
+[abc071 - B. Not Found](https://atcoder.jp/contests/abc071/tasks/abc071_b)
