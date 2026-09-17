@@ -5,3 +5,5 @@
 [abc220 - A_Find Multiple](https://atcoder.jp/contests/abc220/tasks/abc220_a)
 
 [abc124 - A - Buttons](https://atcoder.jp/contests/abc124/tasks/abc124_a)
+
+[abc222 - A. Four Digits](https://atcoder.jp/contests/abc222/tasks/abc222_a)
