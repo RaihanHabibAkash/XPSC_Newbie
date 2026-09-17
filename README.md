@@ -1,6 +1,6 @@
 # XPSC_Newbie
 
-## <-----Week1---->
+## <------Week1------>
 
 [abc209 - A_Counting](https://atcoder.jp/contests/abc209/tasks/abc209_a)
 
@@ -17,3 +17,5 @@
 [abc214 - B. How many?](https://atcoder.jp/contests/abc214/tasks/abc214_b)
 
 [abc191 - B. Remove It](https://atcoder.jp/contests/abc191/tasks/abc191_b)
+
+[abc172 - B. Minor Change](https://atcoder.jp/contests/abc172/tasks/abc172_b)
