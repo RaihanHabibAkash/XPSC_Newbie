@@ -19,3 +19,5 @@
 [abc172 - B. Minor Change](https://atcoder.jp/contests/abc172/tasks/abc172_b)
 
 [Wet Shark and Odd and Even - 621A(900)](https://codeforces.com/contest/621/problem/A)
+
+[A. Plus or Minus - 1807(800)](https://codeforces.com/contest/1807/problem/A)
