@@ -17,3 +17,5 @@
 [abc191 - B. Remove It](https://atcoder.jp/contests/abc191/tasks/abc191_b)
 
 [abc172 - B. Minor Change](https://atcoder.jp/contests/abc172/tasks/abc172_b)
+
+[Wet Shark and Odd and Even - 621A(900)](https://codeforces.com/contest/621/problem/A)
