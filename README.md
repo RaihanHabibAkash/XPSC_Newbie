@@ -32,7 +32,6 @@
 
 [B. Chemistry - 1883(900)](https://codeforces.com/contest/1883/problem/B)
 
-
 ## <------Week2------>
 
 [Heat Wave - 228](https://www.codechef.com/problems/HEATWAVE)
