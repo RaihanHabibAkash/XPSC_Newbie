@@ -1,4 +1,4 @@
-# XPSC_Newbie
+# XPSC_Newbie_Problems
 
 ## <------Week1------>
 
